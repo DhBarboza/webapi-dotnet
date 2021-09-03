@@ -7,3 +7,6 @@ Praticando ASP.NET Core
 
 - Gerar binário do projeto:
     > dotnet build
+
+- Executar o projeto:
+    > dotnet run
